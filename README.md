@@ -1,2 +1,2 @@
 # personal-projects
-My own projects for things that I am interested in
+My own projects on the side for things that I am interested in
